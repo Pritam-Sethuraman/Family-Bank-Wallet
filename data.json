@@ -1,0 +1,14 @@
+{
+    "transactions": [
+        {
+            "date": "10/17/22",
+            "time": "10:59:13",
+            "user": "Adam",
+            "merchant": "Wallmart",
+            "amount": -75.0
+        }
+    ],
+    "wallet_balance": 975.0,
+    "primary_bank_balance": 500.0,
+    "secondary_bank_balance": 700.0
+}
